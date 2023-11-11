@@ -8,3 +8,7 @@ int main()
     cout << "So nguyen vua nhap: " << n ;
     return n;   
 }
+int chinhphuong()
+{
+    
+}
